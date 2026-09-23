@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1e99f1eb6f6c48bead65f21f",
+  "owner": "pokiu9728",
+  "repo": "page-9e009f82965af084d9d2c643",
+  "title": "乐米奥(LMout)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9e009f82965af084d9d2c643",
+      "a": "乐米奥(LMout)",
+      "b": "稳定全球clash加速器",
+      "entity": "乐米奥(LMout)",
+      "brand": "乐米奥(LMout)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ed4f0d4b835e76f96ee5266cb40117e29fc0f6ab98eac334519bbed7c007d695",
+      "content": {
+        "primary_entity": "乐米奥(LMout)",
+        "keyword1": "乐米奥(LMout)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，订阅配置方式各有不同。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "选好适合日常设备数量的套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "开始选择乐米奥套餐",
+          "AI_DESCRIPTION": "，乐米奥(LMout)提供基础版、旗舰版与团队版三档选择，月付价格从 ¥15 到 ¥85，年付为 ¥150、¥350 与 ¥850。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，适合个人、家庭到小团队的不同规模。可以按自己的设备数量、常用流媒体与游戏需求挑选档位，再按照客户端文档导入订阅信息。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "选择套餐时看什么",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备；旗舰版 300GB、5 台设备并带 IPLC 专线；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "根据手机、电脑、平板、路由器的实际连接数量选择档位，避免设备数不够用或流量提前耗尽。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "流量与设备档位",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "月付与年付周期",
+          "AI_GUIDE_INTRO": "选套餐、查适配、配置订阅，三步完成准备工作。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "乐米奥(LMout)围绕不同设备规模与流量需求提供三档套餐，基础版适合少量设备日常使用，旗舰版增加流媒体解锁与 IPLC 专线，团队版面向多设备高流量场景。",
+          "AI_HERO_SUBTITLE": "选择适合设备数量的套餐",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，300GB 流量",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，1000GB 流量",
+          "AI_PLANS_INTRO": "三档套餐覆盖不同设备数和流量规模，可以按使用场景横向对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对比基础版、旗舰版与团队版的流量额度、设备数量和年付价格，确定符合日常使用规模的档位。",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统与客户端类型，了解订阅支持的连接方式和节点线路。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅信息，完成节点选择与连接配置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "乐米奥套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "乐米奥套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按设备数量与流量需求判断：单人少量使用选基础版，流媒体或游戏加速选旗舰版，多设备团队选团队版。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量可能导致连接受限，建议按实际设备数选档。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付折算月均更低：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，功能与月付一致。",
+          "AI_FAQ_QUESTION_4": "订阅如何配置到客户端？",
+          "AI_FAQ_ANSWER_4": "按设备系统选择对应客户端，参照客户端文档导入订阅链接或配置信息，即可加载节点。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速与低延迟场景优化，适合对连接稳定性要求较高的实时应用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fhksiwl.cn",
+    "host": "fhksiwl.cn"
+  },
+  "file_hashes": {
+    "index.html": "6f3599ec43508f1f5a70483cd9035b21433f6d671b83983ec1e17d607b500e64",
+    "sitemap.xml": "fd921ec370b9c3505892d67e8e16a9fe42c1716081fb5206eb895eb5117847de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "52bc073b56cc88ace15bf8d2ac6e9252cf3ee6983ec7f79691579014db2e5313",
+    "robots.txt": "6c8107d375e4935b8865ab6c24873a34d29ab3278578a530506b337b734da7f0",
+    "cb81215cd42b89e5ed6dfb1fbbdc807a.txt": "23cbf8984e6f27a1db2302939cf8769b36024d348fc579e5e8b843f145de0a31"
+  },
+  "revision": "4df2ea12300b7686ae7c4b5524c15086c746f8a741371b8d476ec7c9bccbc442"
+}
